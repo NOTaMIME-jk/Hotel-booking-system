@@ -175,13 +175,6 @@ void order() {
 	}
 
 
-
-
-
-
-
-
-
 // References:
 // JAMSA's C/C++/C# Programer's Bible, Second edition, by Kris Jamesa (PhD, MBA)
 // Problem Solving with C++, Pearson International Sixth Edition, by Walter Savitch
